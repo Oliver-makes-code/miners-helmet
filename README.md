@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# Miner's Helmet
+## A mod that adds a helmet with a dynamic light source using LambDynamicLights
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+##Recipe:
+### - 1x Iron helmet
+### - 1x Lantern
